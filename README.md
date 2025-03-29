@@ -150,3 +150,4 @@ It is automatically deployed to https://storybook.lmem.net on every `develop` br
 >
 > You should have received a copy of the GNU General Public License
 > along with this program. If not, see <http://www.gnu.org/licenses/>.
+## > ✅ Updated docs with improved formatting or extra info.
